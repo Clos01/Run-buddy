@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  /* more on this crazy alphanumerical value in a minute! */
+  color: #39a6b2;
+  font-family: Helvetica, Arial, sans-serif;
+}
+header {
+  padding: 25px 30px;
+  height: 30px;
+  background-color: #39a6b2;
+  color: #fce138;
+  margin: 0;
+  font-weight: bold;
+}
+header a {
+  text-decoration: none;
+  color: #fce138;
+}
+header nav {
+  float: right;
+  margin: 7px 0;
+}
+header h1 {
+  font-weight: bold;
+  font-size: 30 px;
+  color: #fce138;
+  margin: 0;
+  display: inline;
+}
+header nav,
+ul,
+li {
+  display: inline;
+  margin-left: 25px;
+  font-size: 15px;
+  font-family: "Big Caslon";
+}
