@@ -40,7 +40,7 @@ li {
   font-family: "Big Caslon";
 }
 .hero {
-  background-image: url("../css/images/01-04-svgs/hero-bg.jpeg");
+  background-image: url("../css/images/hero-bg.jpeg");
   height: 600px;
   background-size: cover;
   background-position: center;
